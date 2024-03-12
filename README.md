@@ -11,3 +11,10 @@ You can start using it by entering any item name, or general MMO-related word, f
 - Making a consumable section
 - Export to .csv / .xls
 - Able to save specific lists
+
+
+### Personal plans
+- Button to clear shopping list
+- Checkbox on each resource to indicate that you have enough
+- Try to group resources by word radical to make easier to buy search and buy similar resources (e.g. search spimush to buy red, brown, green and blue spimush), could be very hard, maybe AI would reaonably solve this?
+- 
